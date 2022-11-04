@@ -7,7 +7,7 @@ More descriptions for this dataset can found at [this paper](https://www.science
 # Citation
 Please cite the following articles if you find this dataset helpful for your research.
 ```BibTeX
-@ARTICLE{Nabati2022,
+@ARTICLE{Nabati2023,
   author={Nabati, Mohammad and Ghorashi, Seyed Ali},
   journal={Expert Systems with Applications}, 
   title={A real-time fingerprint-based indoor positioning using deep learning and preceding states}, 
