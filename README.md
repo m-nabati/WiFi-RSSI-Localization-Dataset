@@ -2,7 +2,7 @@
 
 This dataset can be used for fingerprint-based localization, and contains 250 locations. 27 Wi-Fi access points have been detected in the test environment and the ```RSS``` values have been recorded at those locations. Each file in the ```RSS``` folder corresponds to a file in ```xyz``` folder. The ```xyz``` folder shows the coordinates where the z value is set to zero because we measured the ```RSS``` values at a fixed height.
 
-More descriptions for this dataset can found at [this paper](https://www.sciencedirect.com/science/article/pii/S0957417422019078).
+More descriptions for this dataset can be found at [this paper](https://www.sciencedirect.com/science/article/pii/S0957417422019078).
 
 # Citation
 Please cite the following articles if you find this dataset helpful for your research.
